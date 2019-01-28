@@ -1,0 +1,7 @@
+add_subdirectory(rational)
+add_subdirectory(DynamicArray)
+add_subdirectory(complex)
+add_subdirectory(StackOnList)
+add_subdirectory(QueueOnList)
+add_subdirectory(matrix)
+add_subdirectory(StackOnArray)
